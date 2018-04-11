@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CognologyFlightBooking.Api.Data": {
+      "commandName": "Project",
+      "environmentVariables": {
+        " connectionString:flightInfoDBConnectionString": "Server=(localdb)\\mssqllocaldb;Database=FlightInfo;Trusted_Connection=True;"
+      }
+    }
+  }
+}

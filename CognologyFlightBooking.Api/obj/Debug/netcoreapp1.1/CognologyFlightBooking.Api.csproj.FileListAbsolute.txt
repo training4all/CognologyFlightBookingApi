@@ -1,0 +1,11 @@
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.deps.json
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.runtimeconfig.json
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.runtimeconfig.dev.json
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\obj\Debug\netcoreapp1.1\CognologyFlightBooking.Api.csprojResolveAssemblyReference.cache
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\obj\Debug\netcoreapp1.1\CognologyFlightBooking.Api.AssemblyInfo.cs
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.dll
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.pdb
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.Data.dll
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\bin\Debug\netcoreapp1.1\CognologyFlightBooking.Api.Data.pdb
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\obj\Debug\netcoreapp1.1\CognologyFlightBooking.Api.dll
+C:\Users\Charu.Jain\Desktop\GBMP_AGL\GBMP_Cognology\CognologyFlightBooking.Api\CognologyFlightBooking.Api\obj\Debug\netcoreapp1.1\CognologyFlightBooking.Api.pdb
